@@ -26,6 +26,11 @@
   margin-bottom: 0px;
 }
 
+h2 {
+  font-size: 1.25rem;
+  color: rgb(0, 190, 0);
+}
+
 @media (min-width: 320px) and (max-width: 1200px) {
   .textContainer {
     display: none;
