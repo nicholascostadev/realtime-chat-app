@@ -1,5 +1,6 @@
 
-![Chatapp](https://user-images.githubusercontent.com/86835927/141023463-e96d7ade-cbf4-4106-83e7-d2ce91a89e8d.png)
+![Chatapp](https://user-images.githubusercontent.com/86835927/141042639-fb0aad16-c527-46b9-956b-fae64eefba37.png)
+
 # Real-Time Chat Application
 
 It's a website fully functional that you can use to talk with people by chat, done with JavaScript Mastery's Youtube video.
